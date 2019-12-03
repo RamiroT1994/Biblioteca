@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1570535632 source:d:\tapia\1erparcial_labi\actor.c
+
+1570535668 source:d:\tapia\1erparcial_labi\elenco.c
+
+1570539009 source:d:\tapia\1erparcial_labi\genero.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Genero.h"
+	"Pelicula.h"
+
+1570539053 source:d:\tapia\1erparcial_labi\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Pelicula.h"
+	"Genero.h"
+
+1570542807 source:d:\tapia\1erparcial_labi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Pelicula.h"
+	"Genero.h"
+
+1570539053 d:\tapia\1erparcial_labi\pelicula.h
+
+1570538462 d:\tapia\1erparcial_labi\genero.h
+
+1571093286 source:c:\users\admin\desktop\14102019\c\1erparcial_labi\actor.c
+	"Actor.h"
+	<ctype.h>
+
+1571107844 source:c:\users\admin\desktop\14102019\c\1erparcial_labi\elenco.c
+	"Elenco.h"
+
+1571074792 source:c:\users\admin\desktop\14102019\c\1erparcial_labi\genero.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Genero.h"
+
+1571090380 c:\users\admin\desktop\14102019\c\1erparcial_labi\genero.h
+	<stdio.h>
+	<stdlib.h>
+	"Inputs.h"
+
+1571096856 c:\users\admin\desktop\14102019\c\1erparcial_labi\pelicula.h
+	<stdio.h>
+	<stdlib.h>
+	"Genero.h"
+
+1571094692 source:c:\users\admin\desktop\14102019\c\1erparcial_labi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Elenco.h"
+
+1571097499 source:c:\users\admin\desktop\14102019\c\1erparcial_labi\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Pelicula.h"
+
+1571094240 c:\users\admin\desktop\14102019\c\1erparcial_labi\elenco.h
+	<stdio.h>
+	<stdlib.h>
+	"Actor.h"
+
+1571093180 c:\users\admin\desktop\14102019\c\1erparcial_labi\actor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Pelicula.h"
+
+1571090577 c:\users\admin\desktop\14102019\c\1erparcial_labi\inputs.h
+	<stdio.h>
+	<stdlib.h>
+
+1571090577 source:c:\users\admin\desktop\14102019\c\1erparcial_labi\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	"Inputs.h"
+
+1575325749 source:c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\actor.c
+	"Actor.h"
+	<ctype.h>
+
+1575325324 c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\actor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Pelicula.h"
+
+1575331454 c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\pelicula.h
+	<stdio.h>
+	<stdlib.h>
+	"Genero.h"
+
+1575325324 c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\genero.h
+	<stdio.h>
+	<stdlib.h>
+	"Inputs.h"
+
+1575325502 c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\inputs.h
+	<stdio.h>
+	<stdlib.h>
+
+1575328869 source:c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\elenco.c
+	"Elenco.h"
+
+1575333325 c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\elenco.h
+	<stdio.h>
+	<stdlib.h>
+	"Actor.h"
+
+1575325324 source:c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\genero.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Genero.h"
+
+1575329126 source:c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Inputs.h"
+
+1575332980 source:c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Elenco.h"
+
+1575331454 source:c:\users\admin\desktop\1er_parcial_labi-master\1erparcial_labi\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Pelicula.h"
+
