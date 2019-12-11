@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1575242834 source:c:\users\admin\desktop\input\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1575242292 c:\users\admin\desktop\input\input.h
+
+1575242985 source:c:\users\admin\desktop\input\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"input.h"
+
+1576011379 source:c:\users\admin\documents\rama\facultad\input\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"input.h"
+
+1576012949 c:\users\admin\documents\rama\facultad\input\input.h
+
+1576014836 source:c:\users\admin\documents\rama\facultad\input\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
